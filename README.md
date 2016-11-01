@@ -2,10 +2,11 @@
 Presentation document for kaist CS443 class - 20161101  
 Session subject : Cloud and Machine Learning in real world business  
 Short URL : https://aka.ms/cs443  
+Download PDF in docs folder  
 
 ###Agenda
 - Essential – Global cloud service vender(Microsoft, AWS, Google) trend(10 min)  
-- Machine Learning in real world business (30 min)  
+- Machine Learning & Hadoop in real world business (30 min)  
 - Cloud and Machine Learning solution architecture debrief with “code” (30 min)  
 - Q&A (10 min)  
 
@@ -18,7 +19,7 @@ Implement whole workflow - Machine Learning algorithm for predictive analytics
 
 [In-game item suggestion real-time prediction & Batch prediction](https://gallery.cortanaintelligence.com/Experiment/CloudBread-game-item-suggestion-prediction-1)  
 
-**Objective :  **  
+###Objective :  
 Predict real-time and batch task with shared Machine Learning model  
 
 - Create Machine Learning model or copy gallery model  
@@ -89,7 +90,7 @@ To analyze log data, execute Azure HDInsight - Hadoop distribution of Hortonwork
 
 With Hadoop, will try **mobile game stage level(diffculty) design**  
 
-**Mobile game stage level design **  
+###Mobile game stage level design  
 - Objective : 30+ game stage casual game. To sustaining on game, will design game difficulty with analytics way. To implement this objective, 7 days of closed beta service with user group and collected game log data from it.  
 
 - To process blob data, [Storage Explorer](http://storageexplorer.com/) and load blob. Map below   *"wasbs:///example/data/"* filder  
@@ -202,5 +203,6 @@ BECA21F0-8B5E-4877-A18A-FD2A4B04322D|4DC0C4A6-893C-4246-AF80-B990EDD10C54|0.0112
     stage2|7.110673135|23451
     ...
 
+- Data visualization  
 
-
+Thanks for participating in this class and good luck  
