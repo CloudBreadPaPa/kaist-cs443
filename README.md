@@ -2,7 +2,9 @@
 Presentation document for kaist CS443 class - 20161101  
 Session subject : Cloud and Machine Learning in real world business  
 Short URL : https://aka.ms/cs443  
+Github repo : https://github.com/CloudBreadPaPa/kaist-cs443  
 Download PDF in docs folder  
+slideshare link : http://www.slideshare.net/daewkim73/cloud-and-machine-learning-in-real-world-business  
 
 ###Agenda
 - Essential – Global cloud service vender(Microsoft, AWS, Google) trend(10 min)  
